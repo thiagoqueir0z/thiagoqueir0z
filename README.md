@@ -21,7 +21,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoqueir0z&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
     <br>
     <h2>👩‍💻 My Student Journey</h2>
-        <div style="display: flex; justify-content: space-around; width: 100%; text-align: left;">
+        <div style="display: flex; justify-content: space-around; width: 50%; text-align: left;">
         <div style="flex: 1; padding: 10px;">            
         <div style="margin-bottom: 50px;">
             <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/thiferre?1337Badge=off&UM6P=off" alt="thiagoqueir0z's 42 stats" /></a>
@@ -35,7 +35,7 @@
         </div>    
         </div>
         <br>
-        <div style="display: flex; justify-content: space-around; width: 100%; text-align: left;">
+        <div style="display: flex; justify-content: space-around; width: 50%; text-align: left;">
         <div style="flex: 1; padding: 10px;">            
         <div style="margin-bottom: 50px;">
             <img src="https://img.shields.io/badge/Oracle_ONE-F80000?logo=oracle&logoColor=white&style=for-the-badge" alt="Oracle ONE Badge"/>
