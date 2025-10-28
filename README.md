@@ -7,10 +7,6 @@
 🚀 Progress, projects, and contributions here.
 
 <p align="left">
-<img src="https://img.shields.io/badge/Nat-pt-%23aaaaaa.svg?style=flat&color=blue" alt="Native language"/>
-<img src="https://img.shields.io/badge/B2-en-%23aaaaaa.svg?style=flat&color=blue" alt="Second language"/>
-<img src="https://img.shields.io/badge/B1-it-%23aaaaaa.svg?style=flat&color=blue" alt="Third language"/>
-<img src="https://img.shields.io/badge/B1-es-%23aaaaaa.svg?style=flat&color=blue" alt="Forth language"/>
 <img src="https://komarev.com/ghpvc/?username=thiagoqueir0z&style=flat&color=blue" alt="Profile views"/>
 </p>
 
